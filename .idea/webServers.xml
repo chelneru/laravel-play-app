@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b4a0360-4c4e-46aa-8c1b-0f44bf057554" name="digitalocean" url="http://207.154.238.78">
+        <fileTransfer rootFolder="/var/www/html/alin-app" accessType="SFTP" host="207.154.238.78" port="22" sshConfigId="50fd27b5-202d-452e-87bb-2fa1c0716451" sshConfig="alin@207.154.238.78:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
